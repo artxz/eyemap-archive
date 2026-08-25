@@ -55,8 +55,8 @@ CSV/JSON). See the Home page for Python/R snippets.
 
 ## Citation
 
-- Zhao et al. 2022, [bioRxiv](https://doi.org/10.1101/2022.12.14.520178)
-- Nern et al. 2025, [Nature](https://doi.org/10.1038/s41586-025-08746-0)
+- [Zhao et al. 2025](https://www.nature.com/articles/s41586-025-09276-5)
+- [Nern et al. 2025](https://doi.org/10.1038/s41586-025-08746-0)
 
 ## License
 
